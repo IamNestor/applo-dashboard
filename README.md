@@ -38,7 +38,7 @@
 - **Objetivo**: Analizar el rendimiento financiero de productos tecnológicos para identificar oportunidades de optimización
 
 ## 📸 Vista previa
-![Captura del Dashboard de Applo](ScreenShootDashboard.png)
+![Captura del Dashboard de Applo](Dashboard.png)
 
 ## 🤝 Contribuciones
 Las sugerencias para mejorar este análisis son bienvenidas. Puedes:
